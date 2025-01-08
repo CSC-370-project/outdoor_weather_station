@@ -2,6 +2,8 @@
 
 
 ## Introduction
-Recently I heard about some new 900MHz radio transceivers from Adafruit called the RFM69. The RFM95 is a low-cost radio which can be easily interfaced with a microcontroller such as an Arduino, and is useful for hobbyists or general experimenting.  I am interested in all things RF, so I bought a couple from Digi-Key to experiment with. I wanted to use these radios to build an outdoor weather station which I could customize and add to over time. There are many complete weather stations available that are plug-n-play, but I wanted to build something myself to keep my electronics skills fresh.  
+Recently I heard about some new 900MHz radio transceivers from Adafruit called the RFM69. The RFM95 is a low-cost radio which can be easily interfaced with a microcontroller such as an Arduino, and is useful for hobbyists or
+general experimenting.  I am interested in all things RF, so I bought a couple from Digi-Key to experiment with. I wanted to use these radios to build an outdoor weather station which I could customize and add to over time. 
+There are many complete weather stations available that are plug-n-play, but I wanted to build something myself to keep my electronics skills fresh.  
 
 ## Setup
