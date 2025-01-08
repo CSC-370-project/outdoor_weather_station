@@ -1,5 +1,10 @@
 # Enclosure sourcing
 
 The enclosure for the RFM69 and associated PCBs had to to withstand wind, rain, snow, ect. The requirements are summarized below:
-+ NEMA4x rating
-+ 
+
++ prevent ingress of water and moisture
++ prevent ingress of dust
++ prevent ingress of bugs
+
+These requirements led me to search for an enclosure with a NEMA4x rating. Such products are available on Digi-Key, but there are so many to choose from! Initially I began seaching the Hammond Mfg website, but
+I found some relatively inexpensive ones from Bud Industries.
