@@ -1,0 +1,5 @@
+# Going Solar
+
+Initially I had considered powering the weather station from a battery, but after some initial testing, I quickly realized I had to have a constant power source other than a battery. The batteries died too quickly!
+Another option was to program the microcontrollers to go into sleep mode and wake up infrequently, but I still did not like the idea of having to recharge a battery on a regular basis - I wanted to automate everything!
+I decided that a solar panel would be necessary.
